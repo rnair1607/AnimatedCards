@@ -11,7 +11,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #154360;
+    background-image: url('MSI_Red.png');
+    background-size: 100% 100% ;
 }
 
 .container {
